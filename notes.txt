@@ -1,0 +1,4 @@
+#notes this is used to for tracking progresss and taking short notes or reminder about project
+it can include ideas updates or things  to fix later 
+Lets go baby 
+We are learning github
